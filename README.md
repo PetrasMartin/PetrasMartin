@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/martin petráš" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin petráš" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/martin petráš](https://www.linkedin.com/in/martin-petr%C3%A1%C5%A1-5a1b00340/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin petráš" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
