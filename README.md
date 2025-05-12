@@ -10,6 +10,11 @@ Ve volném čase se učím **vývoj her v Godot Engine 4.4.1**, kde začínám s
 Jsem nadšenec do **automobilů**, **mechaniky**, **webového vývoje** a **fitness**. Baví mě technické výzvy, rád analyzuji systémy a učím se nové technologie krok za krokem.
 
 ---
+![KUKA](https://img.shields.io/badge/-KUKA-orange?style=flat-square)
+![Siemens S7](https://img.shields.io/badge/-Siemens%20S7-blue?style=flat-square)
+![Godot Engine](https://img.shields.io/badge/-Godot%204.4.1-lightblue?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square)
+![Web Dev](https://img.shields.io/badge/-Web%20Dev-green?style=flat-square)
 
 ## 🔧 Technologie a nástroje
 - 🤖 KUKA Robotics (KRL)
