@@ -1,4 +1,4 @@
-![Martin's banner](./banner.png)
+![Martin's banner](./banner.jpg)
 
 # Martin - Programátor robotů & začínající vývojář her 🎮🤖
 
