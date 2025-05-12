@@ -64,7 +64,7 @@ Jsem nadšenec do **automobilů**, **mechaniky**, **webového vývoje** a **fitn
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-   <a href="https://email.seznam.cz/?hp&u=94097606)" target="_blank">
+   <a href="mailto:petrasmartin@post.cz">
   <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
      </a>
   <a href="https://www.linkedin.com/in/martin-petr%C3%A1%C5%A1-5a1b00340/" target="_blank">
