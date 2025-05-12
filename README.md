@@ -1,3 +1,5 @@
+![Martin's banner](./banner.png)
+
 # Martin - Programátor robotů & začínající vývojář her 🎮🤖
 
 ## 👋 O mně
