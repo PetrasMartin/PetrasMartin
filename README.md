@@ -75,7 +75,7 @@ Jsem nadšenec do **automobilů**, **mechaniky**, **webového vývoje** a **fitn
   </a>
 </div>
 ###
-https://email.seznam.cz/?hp&u=94097606
+
 ---
 
 > **Můj přístup:**  
