@@ -74,6 +74,7 @@ Jsem nadšenec do **automobilů**, **mechaniky**, **webového vývoje** a **fitn
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="X logo"  />
   </a>
 </div>
+
 ###
 
 ---
